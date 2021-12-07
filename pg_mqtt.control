@@ -1,0 +1,5 @@
+# pg_mqtt postgresql extension
+comment = 'Read and write MQTT message'
+default_version = '0.0.1'
+module_pathname = '$libdir/pg_mqtt'
+relocatable = false
